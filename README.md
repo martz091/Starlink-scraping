@@ -9,8 +9,11 @@ This is a student's script project that collects to a accessible starlink accoun
 
 ## Installation
 
-1. **Clone or download this script** to your local machine
+1. Clone or Download the starlink.py
+2. Create a environment for python
 
-2. **Install required packages**:
+3. **Install required packages**:
 ```bash
-pip install selenium webdriver-manager beautifulsoup4
+pip install selenium
+pip install webdriver-manager
+pip install beautifulsoup4
