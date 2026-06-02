@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "${Python scrape}/.venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.pipenv": false,
+    "python.venvPath": "${Python scrape}/.venv"
+}

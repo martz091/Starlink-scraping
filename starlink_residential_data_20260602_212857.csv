@@ -1,0 +1,10 @@
+data_type,metric,value,timestamp
+summary,total_usage_gb,356,2026-06-02 21:28:57
+summary,plan_type,Residential,2026-06-02 21:28:57
+summary,included_data_gb,N/A,2026-06-02 21:28:57
+summary,billing_period_start,N/A,2026-06-02 21:28:57
+summary,billing_period_end,N/A,2026-06-02 21:28:57
+monthly,Nov,356 GB,2026-06-02 21:28:57
+monthly,Dec,0 GB,2026-06-02 21:28:57
+monthly,Jan,20 GB,2026-06-02 21:28:57
+monthly,Feb,40 GB,2026-06-02 21:28:57

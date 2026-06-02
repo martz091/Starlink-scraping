@@ -1,0 +1,23 @@
+{
+  "total_usage_gb": "356",
+  "plan_type": "Residential",
+  "monthly_usage": [
+    {
+      "period": "Nov",
+      "usage_gb": "356"
+    },
+    {
+      "period": "Dec",
+      "usage_gb": "0"
+    },
+    {
+      "period": "Jan",
+      "usage_gb": "20"
+    },
+    {
+      "period": "Feb",
+      "usage_gb": "40"
+    }
+  ],
+  "timezone_note": "UTC"
+}
