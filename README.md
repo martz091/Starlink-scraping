@@ -1,5 +1,5 @@
 # Starlink-scraping
-This is a student's data script project.
+This is a student's script project that collects to a accessible starlink account using python
 
 ## Prerequisites
 
